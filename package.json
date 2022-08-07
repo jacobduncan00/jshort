@@ -11,6 +11,7 @@
   "dependencies": {
     "@prisma/client": "4.1.1",
     "@trpc/next": "^9.26.2",
+    "@trpc/server": "^9.26.2",
     "classnames": "^2.3.1",
     "copy-to-clipboard": "^3.3.2",
     "lodash": "^4.17.21",

@@ -140,7 +140,7 @@
   dependencies:
     "@babel/runtime" "^7.9.0"
 
-"@trpc/server@9.26.2":
+"@trpc/server@^9.26.2", "@trpc/server@9.26.2":
   "integrity" "sha512-J1kP072cVYC5H2qFhiLQ/gV57s0of++9QLLKf9n8mVfx300tecKQW2eu/oFvRCDPRTTQ1prHz9zm15IzLwoRrw=="
   "resolved" "https://registry.npmjs.org/@trpc/server/-/server-9.26.2.tgz"
   "version" "9.26.2"
